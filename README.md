@@ -51,6 +51,6 @@ println!("{}", report.summary());
 
 ## Related
 
-- `fleet-coordinate` — ZHC consensus + Laman + beam
-- `fleet-topology` — topology visualization
-- `pythagorean48-codes` — trust encoding
+- **[fleet-coordinate](https://github.com/SuperInstance/fleet-coordinate)** — ZHC consensus + Laman + beam
+- **[fleet-topology](https://github.com/SuperInstance/fleet-topology)** — topology visualization
+- **[pythagorean48-codes](https://github.com/SuperInstance/pythagorean48-codes)** — trust encoding
