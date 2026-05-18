@@ -1,5 +1,7 @@
 # fleet-homology
 
+
+![CI](https://github.com/SuperInstance/fleet-homology/actions/workflows/ci.yml/badge.svg)
 **H¹ cohomology cycle space computation for fleet emergence detection.**
 
 Computed from algebra, not heuristics. β₁ = E - V + C. When β₁ > V - 2 (Laman boundary), the fleet has redundant constraint paths = emergent behavior.
